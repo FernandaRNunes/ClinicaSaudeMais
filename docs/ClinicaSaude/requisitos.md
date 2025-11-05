@@ -9,6 +9,8 @@
 
 ## Requesitos Funcionais
 
++ O sitema deve permitir  cadrastro de planos de saúde definidos pela clínica.
+
 + O Sistema deve enviar notificações de confirmações de reservas.
 
 + O Sistema deve  permitir logins por meio de redes sociais.
@@ -29,7 +31,7 @@
 
 + O sistema deve notificar o cliente em caso de desmarcação por parte da clínica.
 
-+ O sistema deve permitir  que o médico acesse a própria agenda em tempo real em diferentes dispositivos.
++ O sistema deve permitir  que o médico acesse a própria agenda. 
 
 + A recepcionista deve Aprovar solicitações de reservas. 
 
@@ -37,9 +39,11 @@
 
 ## Requesitos não Funcionais
 
-+ Autoatendimento para agendar, cancelar e consultar horários 24/7.
++ O Sistema deve estar dísponivel para agendar, cancelar e consultar horários 24/7.
 
 + O sistema deve ser compatível com plataformas móveis.
+
++ O sitema deve mostrar a agenda em tempo real em diferentes dispositivos.
 
 + O sistema deve realizar backups automático diariamente.
 
@@ -55,6 +59,8 @@
 ## Regras de Negócios
 
 + Clientes que não possuem plano de saúde tem 20% de descontos.
+
++ O sistema deve aceitar somente planos de sáude pré-definidos pela clínica
 
 + Clientes que não confirme em até 24h antes da consulta terão sua consulta desmarcada.
 
