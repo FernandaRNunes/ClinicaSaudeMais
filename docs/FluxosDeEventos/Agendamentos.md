@@ -18,6 +18,8 @@
 
 5. O Usuário escolhe um horário disponível;
 
+6. O Sistema concluí o agendamento;
+
 # **2 -  Fluxo Alternativo de Exceção A**
 
 1. usuário seleciona um médico específico;
