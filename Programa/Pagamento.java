@@ -1,4 +1,4 @@
-package Programa;
+package programa;
 
 public class Pagamento {
     private double valor_consulta;
