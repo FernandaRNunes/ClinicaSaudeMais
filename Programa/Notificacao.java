@@ -1,4 +1,4 @@
-package Programa;
+package programa;
 
 public class Notificacao {
     private String mensagem;

@@ -1,4 +1,4 @@
-package Programa;
+package programa;
 
 public class Consulta {
     private int id_Consulta;
